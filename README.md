@@ -19,7 +19,7 @@ Certifications: The projects here reflect my academic and professional certifica
 
 
 Let's Connect
-LinkedIn: [Link to your LinkedIn profile]
+LinkedIn: www.linkedin.com/in/kamogelo-wilson-junior-3652a3280
 
 
 Email: KamogeloRapholo@outlook.com 
