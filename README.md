@@ -1,5 +1,6 @@
 # K-Rapholo-Portfolio
 About Me
+
 Hello! I'm Kamogelo Rapholo, a Systems Developer with a National Diploma in Software Development. I specialize in designing and building efficient systems, with a passion for clean code and continuous learning. I am a full-stack developer with a security-first approach, having completed Ethical Hacking training. My goal is to combine technical expertise with user-focused problem-solving to create robust solutions.
 
 What's Inside
